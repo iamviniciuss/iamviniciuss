@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Front end     | Back end      | Data base
+Front end     | Back end      | Database
 ------------- | ------------- | -------------
 HTML5        | Node          | MySQL
 CSS3          | PHP   | MongoDB
