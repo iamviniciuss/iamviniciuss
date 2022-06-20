@@ -4,6 +4,6 @@ Front end     | Back end      | Data base
 ------------- | ------------- | -------------
 HTML5        | Node          | MySQL
 CSS3          | PHP   | MongoDB
-JavaScript    |   | 
-React        |   |
-Adobe XD |   |
+JavaScript    |  Go Lang | Elastic Search
+React        |  Python |
+Angular |   |
